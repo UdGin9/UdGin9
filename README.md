@@ -6,7 +6,11 @@
   - :telescope: I’m working junior frontend developer.
   - :seedling: I’m studying at SamGTU on automation and process control.
   - :zap: In my free time, I solve problems on LeetCode and read tech articles.  
-  <h1>Languages and tools:</h1>
+  ---
+  
+### :hammer_and_wrench: Languages and Tools :
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -21,17 +25,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<!--
-**UdGin9/UdGin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UdGin9&theme=dark&locale=ru)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdGin9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
