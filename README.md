@@ -1,13 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
+</div>
+<div id="badges">
   <div href="https://vk.com/kayzerov21">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </div>
   <div href="https://t.me/kayzerov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </div>
-</div>
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Evgeny</a> 
