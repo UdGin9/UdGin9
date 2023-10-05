@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align"center">
-  <a href="https://vk.com/kayzerov21">
+  <div href="https://vk.com/kayzerov21">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/kayzerov">
+  </div>
+  <div href="https://t.me/kayzerov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </div>
 </div>
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Evgeny</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
