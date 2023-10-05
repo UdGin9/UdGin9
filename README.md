@@ -3,15 +3,12 @@
 </div>  
 <h1 align="center">Hi there, I'm <a href="https://vk.com/kayzerov21" target="_blank">Evgeny</a> 
 
-  <div></div>
-  
+<div padding = "1em" margin "2em">
   :woman_technologist: About Me :
   - :telescope: I’m working junior frontend developer.
   - :seedling: I’m studying at SamGTU on automation and process control.
-  - :zap: In my free time, I solve problems on LeetCode and read tech articles.
-
-
-
+  - :zap: In my free time, I solve problems on LeetCode and read tech articles.  
+</div>  
 
 <div>
   <h1>Languages and tools:</h1>
