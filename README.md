@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>  
 <h1 align="center">Hi there, I'm <a href="https://vk.com/kayzerov21" target="_blank">Evgeny</a> 
-### :woman_technologist: About Me :
+:woman_technologist: About Me :
 <div>
   <h1>Languages and tools:</h1>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
