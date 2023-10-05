@@ -2,14 +2,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>  
 <h1 align="center">Hi there, I'm <a href="https://vk.com/kayzerov21" target="_blank">Evgeny</a> 
---------------------------------------------------------------------------------------------------
   :woman_technologist: About Me :
   - :telescope: I’m working junior frontend developer.
   - :seedling: I’m studying at SamGTU on automation and process control.
   - :zap: In my free time, I solve problems on LeetCode and read tech articles.  
-
-<div>
   <h1>Languages and tools:</h1>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
