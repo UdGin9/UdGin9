@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align"center">
+  <div id="badges">
   <div href="https://vk.com/kayzerov21">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </div>
@@ -9,6 +8,8 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </div>
 </div>
+</div>
+
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Evgeny</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am Frontend developer, studying at SamGTU for automation of technological processes and productions 🇷🇺</h3>
