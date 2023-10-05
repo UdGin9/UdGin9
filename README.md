@@ -6,7 +6,7 @@
   
   :woman_technologist: <a href="https://vk.com/kayzerov21" target="_blank">I am Evgeny</a> :
   
-  - :telescope: I’m working junior frontend developer.
+  - :telescope: I’m junior frontend developer.
   - :seedling: I’m studying at SamGTU on automation and process control.
   - :zap: In my free time, I solve problems on LeetCode and read tech articles.  
   
